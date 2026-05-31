@@ -1,2 +1,3 @@
-
-  <img align=center src='https://coolreadme.xyz/api/claude-code-card-svg?user=daylennguyen&handle=daylennguyen&model=claude-sonnet-4-6&branch=main&workdir=my-project&command=claude%20%22do%20a%20back%20flip%22&systemStatus=back-flipping...'/>
+<div align=center>
+  <img justify=center src='https://coolreadme.xyz/api/claude-code-card-svg?user=daylennguyen&handle=daylennguyen&model=claude-sonnet-4-6&branch=main&workdir=my-project&command=claude%20%22do%20a%20back%20flip%22&systemStatus=back-flipping...'/>
+</div>
