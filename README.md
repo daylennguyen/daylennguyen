@@ -1,1 +1,1 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=daylennguyen&theme=monokai&headerStyle=mac&typingSpeed=220&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/daylennguyen)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=daylennguyen&theme=monokai&headerStyle=mac&typingSpeed=76&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/daylennguyen)
