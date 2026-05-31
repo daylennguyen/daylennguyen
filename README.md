@@ -1,2 +1,1 @@
-![Avatar](https://coolreadme.xyz/api/avatar-card?user=daylennguyen&status=BUILDING&focus=open-source&theme=dark)
-![Streak](https://coolreadme.xyz/api/cat-card?user=daylennguyen&streak=42&longest=42&total=1240)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=daylennguyen&theme=monokai&headerStyle=mac&typingSpeed=220&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/daylennguyen)
